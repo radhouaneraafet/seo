@@ -1,0 +1,2640 @@
+Uri: https://assets.calendly.com/assets/external/widget.js
+File Name: C:\Downloaded Web Sites\raafet.ovh\assets\external\widget.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Nunito:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\css-5
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Rubik:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Nunito:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Nunito+Sans:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Rubik:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Nunito:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Rubik:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Rubik:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\css-4
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDBImdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDBImdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDDshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDDshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83AHjabf.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83AHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHcHjabf.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiBHcHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3cHjabf.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3cHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXAHjabf.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXAHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXcHjabf.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiLXcHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNin3AHjabf.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNin3AHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHjabf.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHjabf.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunito\v26\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmom8GUnK_c.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmom8GUnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP8GUnK_c.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP8GUnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP92UnK_c.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP92UnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpo8GUnK_c.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpo8GUnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpR8GUnK_c.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpR8GUnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmq992UnK_c.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmq992UnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmqP92UnK_c.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmqP92UnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmrR92UnK_c.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmrR92UnK_c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXs1Ug.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilXs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G5ClXs1Ug.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G5ClXs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5Xs1Ug.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5Xs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4Gfy5Xs1Ug.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4Gfy5Xs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GiClXs1Ug.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GiClXs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5Xs1Ug.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5Xs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVi5Xs1Ug.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVi5Xs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVilXs1Ug.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVilXs1Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\roboto\v32\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\roboto\v32\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\roboto\v32\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\roboto\v32\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\roboto\v32\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\roboto\v32\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\roboto\v32\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\roboto\v32\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\roboto\v32\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\roboto\v32\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\roboto\v32\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\roboto\v32\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE3U3f4c.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE3U3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE3U3f4c.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE3U3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE3U3f4c.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE3U3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FHU3f4c.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FHU3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFHU3f4c.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFHU3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FHU3f4c.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FHU3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8vdFHU3f4c.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\rubik\v28\iJWbBXyIfDnIV7nEt3KSJbVDV49rz8vdFHU3f4c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-FV0Uw.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-FV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-FV0Uw.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-FV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFV0Uw.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-FV0Uw.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-FV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYiFV0Uw.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYiFV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-FV0Uw.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-FV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v28/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYiFV0Uw.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\s\rubik\v28\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYiFV0Uw.ttf
+Content Type: font/ttf
+
+Uri: https://livewp.site/wp/md/ewebot/wp-content/uploads/sites/64/2019/07/baner.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp\md\ewebot\wp-content\uploads\sites\64\2019\07\baner.jpg
+Content Type: image/jpeg
+
+Uri: https://livewp.site/wp/md/ewebot/wp-content/uploads/sites/64/2019/07/contacts_img_02.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp\md\ewebot\wp-content\uploads\sites\64\2019\07\contacts_img_02.png
+Content Type: image/png
+
+Uri: https://livewp.site/wp/md/ewebot/wp-content/uploads/sites/64/2019/09/map_point.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp\md\ewebot\wp-content\uploads\sites\64\2019\09\map_point.png
+Content Type: image/png
+
+Uri: https://livewp.site/wp/md/ewebot/wp-content/uploads/sites/64/2019/09/PCC_bg_img.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp\md\ewebot\wp-content\uploads\sites\64\2019\09\PCC_bg_img.jpg
+Content Type: image/jpeg
+
+Uri: https://livewp.site/wp/md/ewebot/wp-content/uploads/sites/64/2019/09/SEO_bg_img_01.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp\md\ewebot\wp-content\uploads\sites\64\2019\09\SEO_bg_img_01.png
+Content Type: image/png
+
+Uri: https://livewp.site/wp/md/ewebot/wp-content/uploads/sites/64/2019/09/SMM_bg__img.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp\md\ewebot\wp-content\uploads\sites\64\2019\09\SMM_bg__img.jpg
+Content Type: image/jpeg
+
+Uri: https://livewp.site/wp/md/ewebot/wp-content/uploads/sites/64/2019/09/team_bg_img.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp\md\ewebot\wp-content\uploads\sites\64\2019\09\team_bg_img.jpg
+Content Type: image/jpeg
+
+Uri: https://livewp.site/wp/md/ewebot/wp-content/uploads/sites/64/2020/12/about_new.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp\md\ewebot\wp-content\uploads\sites\64\2020\12\about_new.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/
+File Name: C:\Downloaded Web Sites\raafet.ovh\index.htm
+Content Type: text/html
+
+Uri: https://raafet.ovh/a-propos/
+File Name: C:\Downloaded Web Sites\raafet.ovh\a-propos\index.htm
+Content Type: text/html
+
+Uri: https://raafet.ovh/author/radhouaneraafetyahoo-fr/
+File Name: C:\Downloaded Web Sites\raafet.ovh\author\radhouaneraafetyahoo-fr\index.htm
+Content Type: text/html
+
+Uri: https://raafet.ovh/author/radhouaneraafetyahoo-fr/feed/
+File Name: C:\Downloaded Web Sites\raafet.ovh\author\radhouaneraafetyahoo-fr\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://raafet.ovh/blog/
+File Name: C:\Downloaded Web Sites\raafet.ovh\blog\index.htm
+Content Type: text/html
+
+Uri: https://raafet.ovh/category/seo/
+File Name: C:\Downloaded Web Sites\raafet.ovh\category\seo\index.htm
+Content Type: text/html
+
+Uri: https://raafet.ovh/category/seo/feed/
+File Name: C:\Downloaded Web Sites\raafet.ovh\category\seo\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://raafet.ovh/comment-augmenter-votre-roi-grace-au-sem-scientifique/
+File Name: C:\Downloaded Web Sites\raafet.ovh\comment-augmenter-votre-roi-grace-au-sem-scientifique\index.htm
+Content Type: text/html
+
+Uri: https://raafet.ovh/comment-augmenter-votre-roi-grace-au-sem-scientifique/feed/
+File Name: C:\Downloaded Web Sites\raafet.ovh\comment-augmenter-votre-roi-grace-au-sem-scientifique\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://raafet.ovh/comments/feed/
+File Name: C:\Downloaded Web Sites\raafet.ovh\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://raafet.ovh/contact/
+File Name: C:\Downloaded Web Sites\raafet.ovh\contact\index.htm
+Content Type: text/html
+
+Uri: https://raafet.ovh/devis-conception-web/
+File Name: C:\Downloaded Web Sites\raafet.ovh\devis-conception-web\index.htm
+Content Type: text/html
+
+Uri: https://raafet.ovh/feed/
+File Name: C:\Downloaded Web Sites\raafet.ovh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://raafet.ovh/notre-equipe/
+File Name: C:\Downloaded Web Sites\raafet.ovh\notre-equipe\index.htm
+Content Type: text/html
+
+Uri: https://raafet.ovh/portfolio-raafet/
+File Name: C:\Downloaded Web Sites\raafet.ovh\portfolio-raafet\index.htm
+Content Type: text/html
+
+Uri: https://raafet.ovh/seo-services/
+File Name: C:\Downloaded Web Sites\raafet.ovh\seo-services\index.htm
+Content Type: text/html
+
+Uri: https://raafet.ovh/smm-services/
+File Name: C:\Downloaded Web Sites\raafet.ovh\smm-services\index.htm
+Content Type: text/html
+
+Uri: https://raafet.ovh/tag/branding/
+File Name: C:\Downloaded Web Sites\raafet.ovh\tag\branding\index.htm
+Content Type: text/html
+
+Uri: https://raafet.ovh/tag/branding/feed/
+File Name: C:\Downloaded Web Sites\raafet.ovh\tag\branding\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://raafet.ovh/tag/digital/
+File Name: C:\Downloaded Web Sites\raafet.ovh\tag\digital\index.htm
+Content Type: text/html
+
+Uri: https://raafet.ovh/tag/digital/feed/
+File Name: C:\Downloaded Web Sites\raafet.ovh\tag\digital\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://raafet.ovh/tag/marketing/
+File Name: C:\Downloaded Web Sites\raafet.ovh\tag\marketing\index.htm
+Content Type: text/html
+
+Uri: https://raafet.ovh/tag/marketing/feed/
+File Name: C:\Downloaded Web Sites\raafet.ovh\tag\marketing\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://raafet.ovh/team/raafet-radhouane/
+File Name: C:\Downloaded Web Sites\raafet.ovh\team\raafet-radhouane\index.htm
+Content Type: text/html
+
+Uri: https://raafet.ovh/wp-content/plugins/cf7-conditional-fields/js/scripts.js?ver=2.3.10
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\cf7-conditional-fields\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/cf7-conditional-fields/style.css?ver=2.3.10
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\cf7-conditional-fields\style.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/ds-cf7-math-captcha/assets/css/style.css?ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\ds-cf7-math-captcha\assets\css\style.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/ds-cf7-math-captcha/assets/img/446bcd468478f5bfb7b4e5c804571392_w200.gif
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\ds-cf7-math-captcha\assets\img\446bcd468478f5bfb7b4e5c804571392_w200.gif
+Content Type: image/gif
+
+Uri: https://raafet.ovh/wp-content/plugins/ds-cf7-math-captcha/assets/img/icons8-refresh-30.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\ds-cf7-math-captcha\assets\img\icons8-refresh-30.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/plugins/ds-cf7-math-captcha/assets/js/script.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\ds-cf7-math-captcha\assets\js\script.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.11.2
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\css\frontend-legacy.min.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.11.2
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/css/modules/lazyload/frontend.min.css?ver=3.11.2
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\css\modules\lazyload\frontend.min.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/images/placeholder.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\images\placeholder.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.11.2
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.11.2
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.11.2
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.11.2
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.11.2
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.11.2
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.11.2
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: application/x-font-woff
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: 
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: application/x-font-woff
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: 
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: application/x-font-woff
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: 
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\lib\swiper\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=9.1.1
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\google-analytics-for-wordpress\assets\js\frontend-gtag.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-photo-video-gallery-pro/dist/js/deprecated.js?ver=1.7.0.17
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-photo-video-gallery-pro\dist\js\deprecated.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-photo-video-gallery/dist/js/deprecated/frontend.js?ver=1695449900
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-photo-video-gallery\dist\js\deprecated\frontend.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/core/elementor/assets/js/circle-progress.min.js?ver=1.5.8
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\core\elementor\assets\js\circle-progress.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/core/elementor/assets/js/core-frontend.js?ver=1.5.8
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\core\elementor\assets\js\core-frontend.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/core/elementor/assets/js/swipebox/css/swipebox.min.css?ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\core\elementor\assets\js\swipebox\css\swipebox.min.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/core/elementor/assets/js/swipebox/img/icons.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\core\elementor\assets\js\swipebox\img\icons.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/core/elementor/assets/js/swipebox/img/loader.gif
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\core\elementor\assets\js\swipebox\img\loader.gif
+Content Type: image/gif
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/core/elementor/assets/js/swipebox/js/jquery.swipebox.min.js?ver=1.4.4
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\core\elementor\assets\js\swipebox\js\jquery.swipebox.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/css/animations.css?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\css\animations.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/css/slick.css?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\css\slick.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/css/widgets/column.css?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\css\widgets\column.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/css/widgets/gt3-core-advanced-tabs.css?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\css\widgets\gt3-core-advanced-tabs.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/css/widgets/gt3-core-blog.css?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\css\widgets\gt3-core-blog.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/css/widgets/gt3-core-blogboxed.css?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\css\widgets\gt3-core-blogboxed.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/css/widgets/gt3-core-button.css?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\css\widgets\gt3-core-button.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/css/widgets/gt3-core-counter.css?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\css\widgets\gt3-core-counter.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/css/widgets/gt3-core-custommeta.css?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\css\widgets\gt3-core-custommeta.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/css/widgets/gt3-core-imagebox.css?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\css\widgets\gt3-core-imagebox.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/css/widgets/gt3-core-piechart.css?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\css\widgets\gt3-core-piechart.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/css/widgets/gt3-core-pricebox.css?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\css\widgets\gt3-core-pricebox.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/css/widgets/gt3-core-processbar.css?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\css\widgets\gt3-core-processbar.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/css/widgets/gt3-core-team.css?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\css\widgets\gt3-core-team.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/css/widgets/gt3-core-testimonialslite.css?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\css\widgets\gt3-core-testimonialslite.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/css/widgets/gt3-core-videopopup.css?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\css\widgets\gt3-core-videopopup.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/js/core.js?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\js\core.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/js/isotope.js?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\js\isotope.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/js/slick.js?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\js\slick.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/js/widgets/column.js?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\js\widgets\column.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/js/widgets/gt3-core-advanced-tabs.js?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\js\widgets\gt3-core-advanced-tabs.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/js/widgets/gt3-core-blog.js?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\js\widgets\gt3-core-blog.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/js/widgets/gt3-core-blogboxed.js?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\js\widgets\gt3-core-blogboxed.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/js/widgets/gt3-core-button.js?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\js\widgets\gt3-core-button.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/js/widgets/gt3-core-counter.js?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\js\widgets\gt3-core-counter.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/js/widgets/gt3-core-custommeta.js?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\js\widgets\gt3-core-custommeta.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/js/widgets/gt3-core-imagebox.js?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\js\widgets\gt3-core-imagebox.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/js/widgets/gt3-core-piechart.js?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\js\widgets\gt3-core-piechart.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/js/widgets/gt3-core-pricebox.js?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\js\widgets\gt3-core-pricebox.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/js/widgets/gt3-core-processbar.js?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\js\widgets\gt3-core-processbar.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/js/widgets/gt3-core-team.js?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\js\widgets\gt3-core-team.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/js/widgets/gt3-core-testimonialslite.js?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\js\widgets\gt3-core-testimonialslite.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/js/widgets/gt3-core-typed-text.js?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\js\widgets\gt3-core-typed-text.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/gt3-themes-core/dist/js/widgets/gt3-core-videopopup.js?ver=1670367428
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\gt3-themes-core\dist\js\widgets\gt3-core-videopopup.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/multi-step-form/dist/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\multi-step-form\dist\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://raafet.ovh/wp-content/plugins/multi-step-form/dist/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\multi-step-form\dist\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://raafet.ovh/wp-content/plugins/multi-step-form/dist/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\multi-step-form\dist\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://raafet.ovh/wp-content/plugins/multi-step-form/dist/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\multi-step-form\dist\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://raafet.ovh/wp-content/plugins/multi-step-form/dist/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\multi-step-form\dist\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://raafet.ovh/wp-content/plugins/multi-step-form/dist/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\multi-step-form\dist\fonts\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: https://raafet.ovh/wp-content/plugins/multi-step-form/dist/scripts/msf-frontend.min.js?ver=1.7.11
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\multi-step-form\dist\scripts\msf-frontend.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/multi-step-form/dist/scripts/msf-vendor.min.js?ver=1.7.11
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\multi-step-form\dist\scripts\msf-vendor.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/multi-step-form/dist/styles/msf-frontend.min.css?ver=1.7.11
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\multi-step-form\dist\styles\msf-frontend.min.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/multi-step-form/dist/styles/msf-vendor.min.css?ver=1.7.11
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\multi-step-form\dist\styles\msf-vendor.min.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/mystickyelements/css/font-awesome.min.css?ver=2.1.3
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\mystickyelements\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/mystickyelements/css/mystickyelements-front.min.css?ver=2.1.3
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\mystickyelements\css\mystickyelements-front.min.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/mystickyelements/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\mystickyelements\fonts\fa-brands-400.woff
+Content Type: application/x-font-woff
+
+Uri: https://raafet.ovh/wp-content/plugins/mystickyelements/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\mystickyelements\fonts\fa-regular-400.woff
+Content Type: application/x-font-woff
+
+Uri: https://raafet.ovh/wp-content/plugins/mystickyelements/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\mystickyelements\fonts\fa-solid-900.woff
+Content Type: application/x-font-woff
+
+Uri: https://raafet.ovh/wp-content/plugins/mystickyelements/fonts/OpenSansHebrew-Regular.woff
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\mystickyelements\fonts\OpenSansHebrew-Regular.woff
+Content Type: application/x-font-woff
+
+Uri: https://raafet.ovh/wp-content/plugins/mystickyelements/images/amazon-logo.svg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\mystickyelements\images\amazon-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://raafet.ovh/wp-content/plugins/mystickyelements/images/ebay-logo.svg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\mystickyelements\images\ebay-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://raafet.ovh/wp-content/plugins/mystickyelements/images/fiverr-logo.svg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\mystickyelements\images\fiverr-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://raafet.ovh/wp-content/plugins/mystickyelements/images/flickr-logo.svg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\mystickyelements\images\flickr-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://raafet.ovh/wp-content/plugins/mystickyelements/images/google-play-logo.svg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\mystickyelements\images\google-play-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://raafet.ovh/wp-content/plugins/mystickyelements/images/gumroad-logo.svg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\mystickyelements\images\gumroad-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://raafet.ovh/wp-content/plugins/mystickyelements/images/line-logo.svg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\mystickyelements\images\line-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://raafet.ovh/wp-content/plugins/mystickyelements/images/poptin-logo.svg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\mystickyelements\images\poptin-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://raafet.ovh/wp-content/plugins/mystickyelements/images/printful-logo.svg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\mystickyelements\images\printful-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://raafet.ovh/wp-content/plugins/mystickyelements/images/qzone-logo.svg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\mystickyelements\images\qzone-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://raafet.ovh/wp-content/plugins/mystickyelements/images/shopify-logo.svg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\mystickyelements\images\shopify-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://raafet.ovh/wp-content/plugins/mystickyelements/images/slack-logo.svg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\mystickyelements\images\slack-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://raafet.ovh/wp-content/plugins/mystickyelements/intl-tel-input-src/build/css/intlTelInput.css?ver=2.1.3
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\mystickyelements\intl-tel-input-src\build\css\intlTelInput.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/mystickyelements/intl-tel-input-src/build/img/flags.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\mystickyelements\intl-tel-input-src\build\img\flags.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/plugins/mystickyelements/intl-tel-input-src/build/img/flags@2x.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\mystickyelements\intl-tel-input-src\build\img\flags@2x.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/plugins/mystickyelements/intl-tel-input-src/build/js/intlTelInput.js?ver=2.1.3
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\mystickyelements\intl-tel-input-src\build\js\intlTelInput.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/mystickyelements/js/jquery.cookie.js?ver=2.1.3
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\mystickyelements\js\jquery.cookie.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/mystickyelements/js/mystickyelements-fronted.min.js?ver=2.1.3
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\mystickyelements\js\mystickyelements-fronted.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/portfolio-filter-gallery/css/bootstrap.css?ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\portfolio-filter-gallery\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/portfolio-filter-gallery/css/filter-gallery.css?ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\portfolio-filter-gallery\css\filter-gallery.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/portfolio-filter-gallery/css/font-awesome.min.css?ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\portfolio-filter-gallery\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/portfolio-filter-gallery/css/hover.css?ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\portfolio-filter-gallery\css\hover.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/portfolio-filter-gallery/css/YouTubePopUp.css?ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\portfolio-filter-gallery\css\YouTubePopUp.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/portfolio-filter-gallery/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\portfolio-filter-gallery\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://raafet.ovh/wp-content/plugins/portfolio-filter-gallery/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\portfolio-filter-gallery\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://raafet.ovh/wp-content/plugins/portfolio-filter-gallery/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\portfolio-filter-gallery\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://raafet.ovh/wp-content/plugins/portfolio-filter-gallery/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\portfolio-filter-gallery\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://raafet.ovh/wp-content/plugins/portfolio-filter-gallery/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\portfolio-filter-gallery\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://raafet.ovh/wp-content/plugins/portfolio-filter-gallery/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\portfolio-filter-gallery\fonts\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: https://raafet.ovh/wp-content/plugins/portfolio-filter-gallery/img/close-icon-white.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\portfolio-filter-gallery\img\close-icon-white.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/plugins/portfolio-filter-gallery/img/loading-icon.gif
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\portfolio-filter-gallery\img\loading-icon.gif
+Content Type: image/gif
+
+Uri: https://raafet.ovh/wp-content/plugins/portfolio-filter-gallery/js/bootstrap.min.js?ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\portfolio-filter-gallery\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/portfolio-filter-gallery/js/controls.js?ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\portfolio-filter-gallery\js\controls.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/portfolio-filter-gallery/js/jquery.filterizr.js?ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\portfolio-filter-gallery\js\jquery.filterizr.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/portfolio-filter-gallery/js/YouTubePopUp.jquery.js?ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\portfolio-filter-gallery\js\YouTubePopUp.jquery.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/portfolio-filter-gallery/lightbox/ld-lightbox/css/lightbox.css?ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\portfolio-filter-gallery\lightbox\ld-lightbox\css\lightbox.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/portfolio-filter-gallery/lightbox/ld-lightbox/images/close.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\portfolio-filter-gallery\lightbox\ld-lightbox\images\close.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/plugins/portfolio-filter-gallery/lightbox/ld-lightbox/images/loading.gif
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\portfolio-filter-gallery\lightbox\ld-lightbox\images\loading.gif
+Content Type: image/gif
+
+Uri: https://raafet.ovh/wp-content/plugins/portfolio-filter-gallery/lightbox/ld-lightbox/images/next.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\portfolio-filter-gallery\lightbox\ld-lightbox\images\next.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/plugins/portfolio-filter-gallery/lightbox/ld-lightbox/images/prev.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\portfolio-filter-gallery\lightbox\ld-lightbox\images\prev.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/plugins/portfolio-filter-gallery/lightbox/ld-lightbox/js/lightbox.js?ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\portfolio-filter-gallery\lightbox\ld-lightbox\js\lightbox.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/revslider/public/assets/assets/coloredbg.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\revslider\public\assets\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/plugins/revslider/public/assets/assets/gridtile.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\revslider\public\assets\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\revslider\public\assets\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/plugins/revslider/public/assets/assets/loader.gif
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\revslider\public\assets\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://raafet.ovh/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\revslider\public\assets\css\closedhand.cur
+Content Type: 
+
+Uri: https://raafet.ovh/wp-content/plugins/revslider/public/assets/css/openhand.cur
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\revslider\public\assets\css\openhand.cur
+Content Type: 
+
+Uri: https://raafet.ovh/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.5.9
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\revslider\public\assets\css\rs6.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://raafet.ovh/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://raafet.ovh/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://raafet.ovh/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.woff
+Content Type: application/x-font-woff
+
+Uri: https://raafet.ovh/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.5.9
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\revslider\public\assets\js\rbtools.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.5.9
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\revslider\public\assets\js\rs6.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/ultimate-addons-for-contact-form-7/addons/column/grid/columns.css?ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\ultimate-addons-for-contact-form-7\addons\column\grid\columns.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/ultimate-addons-for-contact-form-7/addons/conditional-field/js/uacf7-cf-script.js?ver=3.3.12
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\ultimate-addons-for-contact-form-7\addons\conditional-field\js\uacf7-cf-script.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/ultimate-addons-for-contact-form-7/addons/multistep/assets/css/multistep.css?ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\ultimate-addons-for-contact-form-7\addons\multistep\assets\css\multistep.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/ultimate-addons-for-contact-form-7/addons/multistep/assets/js/multistep.js
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\ultimate-addons-for-contact-form-7\addons\multistep\assets\js\multistep.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/ultimate-addons-for-contact-form-7/addons/multistep/assets/js/progressbar.js
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\ultimate-addons-for-contact-form-7\addons\multistep\assets\js\progressbar.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/ultimate-addons-for-contact-form-7/addons/redirection/js/redirect.js
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\ultimate-addons-for-contact-form-7\addons\redirection\js\redirect.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/ultimate-addons-for-contact-form-7/addons/spam-protection/assets/css/spam-protection-style.css?ver=5.8
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\ultimate-addons-for-contact-form-7\addons\spam-protection\assets\css\spam-protection-style.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/ultimate-addons-for-contact-form-7/assets/css/form-style.css?ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\ultimate-addons-for-contact-form-7\assets\css\form-style.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/ultimate-addons-for-contact-form-7/assets/css/uacf7-frontend.css?ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\ultimate-addons-for-contact-form-7\assets\css\uacf7-frontend.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/wp-user-manager/assets/css/wpum.min.css?ver=2.9.10
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\wp-user-manager\assets\css\wpum.min.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/wpda-builder-pro/dist/css/frontend/frontend.css?ver=1670367436
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\wpda-builder-pro\dist\css\frontend\frontend.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/wpda-builder-pro/dist/css/frontend/mega-menu-frontend.css?ver=1670367436
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\wpda-builder-pro\dist\css\frontend\mega-menu-frontend.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/plugins/wpda-builder-pro/dist/font/wpdaicon.68498eca.eot
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\wpda-builder-pro\dist\font\wpdaicon.68498eca.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://raafet.ovh/wp-content/plugins/wpda-builder-pro/dist/font/wpdaicon.68498eca.eot?
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\wpda-builder-pro\dist\font\wpdaicon.68498eca-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://raafet.ovh/wp-content/plugins/wpda-builder-pro/dist/font/wpdaicon.96a8f330.woff
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\wpda-builder-pro\dist\font\wpdaicon.96a8f330.woff
+Content Type: application/x-font-woff
+
+Uri: https://raafet.ovh/wp-content/plugins/wpda-builder-pro/dist/img/close.2065683d.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\wpda-builder-pro\dist\img\close.2065683d.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/plugins/wpda-builder-pro/dist/img/wpdaicon.ddab37d5.svg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\wpda-builder-pro\dist\img\wpdaicon.ddab37d5.svg
+Content Type: image/svg+xml
+
+Uri: https://raafet.ovh/wp-content/plugins/wpda-builder-pro/dist/js/frontend/frontend.js?ver=1670367436
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\wpda-builder-pro\dist\js\frontend\frontend.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/wpda-builder-pro/dist/js/frontend/mega-menu-frontend.js?ver=1670367436
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\wpda-builder-pro\dist\js\frontend\mega-menu-frontend.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.8.3.1
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\plugins\wpforms-lite\assets\js\integrations\elementor\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot-child/style.css?ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot-child\style.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/archive.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\archive.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/base.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\base.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/bubble.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\bubble.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/cf7.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\cf7.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/cpt/single.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\cpt\single.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/cpt/team.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\cpt\team.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/font-awesome.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/theme-font.css?ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\theme-font.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/widgets/gt3-core-advanced-tabs.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\widgets\gt3-core-advanced-tabs.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/widgets/gt3-core-blog.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\widgets\gt3-core-blog.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/widgets/gt3-core-blogboxed.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\widgets\gt3-core-blogboxed.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/widgets/gt3-core-button.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\widgets\gt3-core-button.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/widgets/gt3-core-counter.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\widgets\gt3-core-counter.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/widgets/gt3-core-imagebox.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\widgets\gt3-core-imagebox.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/widgets/gt3-core-piechart.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\widgets\gt3-core-piechart.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/widgets/gt3-core-pricebox.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\widgets\gt3-core-pricebox.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/widgets/gt3-core-processbar.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\widgets\gt3-core-processbar.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/widgets/gt3-core-team.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\widgets\gt3-core-team.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/widgets/gt3-core-testimonialslite.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\widgets\gt3-core-testimonialslite.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/widgets/gt3-core-videopopup.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\widgets\gt3-core-videopopup.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/widgets/progress.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\widgets\progress.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/wp-widgets.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\wp-widgets.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/wp-widgets/categories.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\wp-widgets\categories.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/wp-widgets/custom_html.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\wp-widgets\custom_html.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/wp-widgets/posts.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\wp-widgets\posts.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/wp-widgets/search.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\wp-widgets\search.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/wp-widgets/tag_cloud.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\wp-widgets\tag_cloud.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/css/wpda.css?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\css\wpda.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/img/bg-clouds.1cbd2afb.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\img\bg-clouds.1cbd2afb.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/img/bg-clouds_bottom.5d8f60b8.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\img\bg-clouds_bottom.5d8f60b8.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/img/close_burger.545cc992.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\img\close_burger.545cc992.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/img/link.b35ca840.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\img\link.b35ca840.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/img/pricebox_bg.c3c0bcec.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\img\pricebox_bg.c3c0bcec.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/img/quote.e726292b.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\img\quote.e726292b.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/js/anime.js?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\js\anime.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/dist/js/theme.js?ver=1670367304
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\dist\js\theme.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/fonts/flaticon.woff2
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\fonts\flaticon.woff2
+Content Type: 
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/fonts/fontawesome-webfont.woff2
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/style.css
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\style-1.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/themes/ewebot/style.css?ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\themes\ewebot\style.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/1-300x47.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\1-300x47.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/1.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\1.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/2-300x49.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\2-300x49.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/2.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\2.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/3.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\3.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/4.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\4.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/blog_img_01-1170x700.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\blog_img_01-1170x700.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/blog_img_01-150x150-140x140.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\blog_img_01-150x150-140x140.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/blog_img_01-300x300.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\blog_img_01-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/blog_img_01-384x256.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\blog_img_01-384x256.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/blog_img_01-400x266.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\blog_img_01-400x266.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/blog_img_01-420x280.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\blog_img_01-420x280.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/blog_img_01-496x330.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\blog_img_01-496x330.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/blog_img_01-540x360.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\blog_img_01-540x360.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/blog_img_01-600x400.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\blog_img_01-600x400.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/blog_img_02-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\blog_img_02-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/blog_img_02-150x150.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\blog_img_02-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/blog_img_02-300x300.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\blog_img_02-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/blog_img_02-480x480.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\blog_img_02-480x480.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/blog_img_02-768x768.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\blog_img_02-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/blog_img_02.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\blog_img_02.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/blog_img_03-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\blog_img_03-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/blog_img_03-150x150.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\blog_img_03-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/blog_img_03-300x300.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\blog_img_03-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/blog_img_03-480x480.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\blog_img_03-480x480.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/blog_img_03-768x768.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\blog_img_03-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/blog_img_03.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\blog_img_03.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/chek_b.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\chek_b.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/chek_g.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\chek_g.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/chek_o.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\chek_o.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/img_box_01.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\img_box_01.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/img_box_02.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\img_box_02.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/img_box_03-300x197.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\img_box_03-300x197.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/img_box_03.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\img_box_03.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/img_box_04.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\img_box_04.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/img_box_05.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\img_box_05.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/img_box_06.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\img_box_06.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/img_box_07.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\img_box_07.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/img_box_08.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\img_box_08.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/img_box_09.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\img_box_09.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/img_box_17-150x150.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\img_box_17-150x150.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/img_box_17.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\img_box_17.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/img_box_18-150x150.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\img_box_18-150x150.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/img_box_18.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\img_box_18.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/img_box_19-150x150.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\img_box_19-150x150.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/img_box_19.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\img_box_19.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/img_box_20-150x150.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\img_box_20-150x150.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/img_box_20.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\img_box_20.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/img_box_21.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\img_box_21.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/img_box_22.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\img_box_22.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/img_box_23.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\img_box_23.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/img_box_24.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\img_box_24.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/img_box_25.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\img_box_25.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/img_box_26.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\img_box_26.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/07/img_box_27.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\07\img_box_27.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/09/about_us_img_01-300x280.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\09\about_us_img_01-300x280.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/09/about_us_img_01-480x448.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\09\about_us_img_01-480x448.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/09/about_us_img_01.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\09\about_us_img_01.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/09/home_img-01-300x227.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\09\home_img-01-300x227.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/09/home_img-01-480x363.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\09\home_img-01-480x363.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/09/home_img-01.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\09\home_img-01.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/09/home_img-03-150x150.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\09\home_img-03-150x150.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/09/home_img-03-298x300.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\09\home_img-03-298x300.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/09/home_img-03-480x483.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\09\home_img-03-480x483.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/09/home_img-03.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\09\home_img-03.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/09/home_img-05-300x200.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\09\home_img-05-300x200.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/09/home_img-05-480x320.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\09\home_img-05-480x320.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/09/home_img-05.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\09\home_img-05.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/09/SEO_bg_img-300x272.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\09\SEO_bg_img-300x272.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/09/SEO_bg_img-480x435.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\09\SEO_bg_img-480x435.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/09/SEO_bg_img.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\09\SEO_bg_img.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/09/services_img_01-300x243.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\09\services_img_01-300x243.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/09/services_img_01-480x389.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\09\services_img_01-480x389.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/09/services_img_01.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\09\services_img_01.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/09/SMM_img-1024x479.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\09\SMM_img-1024x479.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/09/SMM_img-300x140.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\09\SMM_img-300x140.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/09/SMM_img-480x224.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\09\SMM_img-480x224.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/09/SMM_img-768x359.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\09\SMM_img-768x359.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/09/SMM_img.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\09\SMM_img.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/12/circle.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\12\circle.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/12/triangle_blue.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\12\triangle_blue.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2019/12/triangle_orange.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2019\12\triangle_orange.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2020/03/img_box_29_orange.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2020\03\img_box_29_orange.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2020/06/home_06_icon_22.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2020\06\home_06_icon_22.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2020/06/home_06_icon_23.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2020\06\home_06_icon_23.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2020/10/home6_img_3-148x148.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2020\10\home6_img_3-148x148.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/adresse-location-map.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\adresse-location-map.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/circle_blue.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\circle_blue.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/circle_green.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\circle_green.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/circle_orange.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\circle_orange.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/circle_purple.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\circle_purple.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/Creation-web-et-optimisation-SEO-la-combinaison-parfaite-pour-votre-succes-en-ligne.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\Creation-web-et-optimisation-SEO-la-combinaison-parfaite-pour-votre-succes-en-ligne.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/home10_ellipse-300x249.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\home10_ellipse-300x249.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/home10_ellipse-480x398.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\home10_ellipse-480x398.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/home10_ellipse-768x637.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\home10_ellipse-768x637.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/home10_ellipse.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\home10_ellipse.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/home10_ellipse2-300x249.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\home10_ellipse2-300x249.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/home10_ellipse2-480x398.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\home10_ellipse2-480x398.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/home10_ellipse2-768x637.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\home10_ellipse2-768x637.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/home10_ellipse2.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\home10_ellipse2.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/home10_quote-300x227.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\home10_quote-300x227.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/home10_quote.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\home10_quote.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/home10_service1-active.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\home10_service1-active.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/home10_service1.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\home10_service1.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/home10_service2-active.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\home10_service2-active.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/home10_service2.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\home10_service2.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/home10_service3-active.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\home10_service3-active.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/home10_service3.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\home10_service3.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/home10_service4-active.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\home10_service4-active.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/home10_service4.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\home10_service4.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/home10_service5-active.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\home10_service5-active.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/home10_service5.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\home10_service5.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/home10_service6-active.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\home10_service6-active.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/home10_service6.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\home10_service6.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2021/01/mail-icon-white.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2021\01\mail-icon-white.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2022/12/FAVICON-New-LoGo-Raafet-Digital-Marketing.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2022\12\FAVICON-New-LoGo-Raafet-Digital-Marketing.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2022/12/New-LoGo-Raafet-Digital-Marketing.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2022\12\New-LoGo-Raafet-Digital-Marketing.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/02/digital-marketing-seo-optimisation-2-294x300.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\02\digital-marketing-seo-optimisation-2-294x300.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/02/digital-marketing-seo-optimisation-2-480x490.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\02\digital-marketing-seo-optimisation-2-480x490.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/02/digital-marketing-seo-optimisation-2-768x785.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\02\digital-marketing-seo-optimisation-2-768x785.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/02/digital-marketing-seo-optimisation-2.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\02\digital-marketing-seo-optimisation-2.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/03/pic_paralax_-3.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\03\pic_paralax_-3.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/alphaline-logo-3.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\alphaline-logo-3.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/ampoules-LED-E14-Facebook-1024x576.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\ampoules-LED-E14-Facebook-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/ampoules-LED-E14-Facebook.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\ampoules-LED-E14-Facebook.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/bestfouta-632-701x1024.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\bestfouta-632-701x1024.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/bestfouta-632.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\bestfouta-632.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/bestfouta-Logo-Variation.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\bestfouta-Logo-Variation.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/brodivers-logo-Final-3-1.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\brodivers-logo-Final-3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/brodivers.com-Entreprise-de-broderie-in-872x1024.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\brodivers.com-Entreprise-de-broderie-in-872x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/brodivers.com-Entreprise-de-broderie-in.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\brodivers.com-Entreprise-de-broderie-in.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/business-flyer-2.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\business-flyer-2.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/caffepure-1280-507x1024.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\caffepure-1280-507x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/caffepure-1280.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\caffepure-1280.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/dari-securisee-LOGO-Final.-2.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\dari-securisee-LOGO-Final.-2.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/dax-engineering.com-website-701x1024.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\dax-engineering.com-website-701x1024.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/dax-engineering.com-website.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\dax-engineering.com-website.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/ewebot-marketing-seo-wordpress-theme-scaled-2.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\ewebot-marketing-seo-wordpress-theme-scaled-2.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/f377ba152411733.631dfe3ae4db5-336x1024.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\f377ba152411733.631dfe3ae4db5-336x1024.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/f377ba152411733.631dfe3ae4db5.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\f377ba152411733.631dfe3ae4db5.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/gradient-medical-facebook-cover_632-1024x389.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\gradient-medical-facebook-cover_632-1024x389.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/gradient-medical-facebook-cover_632.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\gradient-medical-facebook-cover_632.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/gradient-real-estate-facebook-cover_23-2149051101-1024x433.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\gradient-real-estate-facebook-cover_23-2149051101-1024x433.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/gradient-real-estate-facebook-cover_23-2149051101.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\gradient-real-estate-facebook-cover_23-2149051101.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/Industriel-lampe-led-ameliorer-avec-radiateur-2023-1024x575.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\Industriel-lampe-led-ameliorer-avec-radiateur-2023-1024x575.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/Industriel-lampe-led-ameliorer-avec-radiateur-2023.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\Industriel-lampe-led-ameliorer-avec-radiateur-2023.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/Infinite-–-Medical-–-Just-another-Infinite-Demos-Sites-site-2-356x1024.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\Infinite-–-Medical-–-Just-another-Infinite-Demos-Sites-site-2-356x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/Infinite-–-Medical-–-Just-another-Infinite-Demos-Sites-site-2.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\Infinite-–-Medical-–-Just-another-Infinite-Demos-Sites-site-2.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/LOGO-artisanat-632.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\LOGO-artisanat-632.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/logo-Bio-Plantana-2022.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\logo-Bio-Plantana-2022.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/logo-dax-engineering.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\logo-dax-engineering.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/logo-default.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\logo-default.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/logo-gape-variations.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\logo-gape-variations.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/logo-qatar-01-1170x1170-1-1024x1024.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\logo-qatar-01-1170x1170-1-1024x1024.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/logo-qatar-01-1170x1170-1.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\logo-qatar-01-1170x1170-1.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/Logo-Ricos-Tacos-Pizza-Final-1024x785.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\Logo-Ricos-Tacos-Pizza-Final-1024x785.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/Logo-Ricos-Tacos-Pizza-Final.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\Logo-Ricos-Tacos-Pizza-Final.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/Logo-Siwar-LTY-Smart.com-0-1024x576.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\Logo-Siwar-LTY-Smart.com-0-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/Logo-Siwar-LTY-Smart.com-0.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\Logo-Siwar-LTY-Smart.com-0.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/Logo-taco_s-Factory-4.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\Logo-taco_s-Factory-4.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/logo-video-1024x382.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\logo-video-1024x382.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/logo-video.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\logo-video.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/LOGO-WEB2-300x261-1.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\LOGO-WEB2-300x261-1.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/modele-affiche-soins-sante-medicaux_23-2148940481-1024x577.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\modele-affiche-soins-sante-medicaux_23-2148940481-1024x577.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/modele-affiche-soins-sante-medicaux_23-2148940481.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\modele-affiche-soins-sante-medicaux_23-2148940481.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/modele-brochure-hopital-degrade_23-2149612772-1024x397.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\modele-brochure-hopital-degrade_23-2149612772-1024x397.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/modele-brochure-hopital-degrade_23-2149612772.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\modele-brochure-hopital-degrade_23-2149612772.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/modele-brochure-trois-volets-entreprise-creative_590239-52-1024x432.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\modele-brochure-trois-volets-entreprise-creative_590239-52-1024x432.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/modele-brochure-trois-volets-entreprise-creative_590239-52.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\modele-brochure-trois-volets-entreprise-creative_590239-52.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/modele-flyer-corporatif-moderne_52683-60121.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\modele-flyer-corporatif-moderne_52683-60121.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/modele-flyer-professionnel_52683-4095.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\modele-flyer-professionnel_52683-4095.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/modele-flyers-etude-cas-degrade_52683-74755-1024x683.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\modele-flyers-etude-cas-degrade_52683-74755-1024x683.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/modele-flyers-etude-cas-degrade_52683-74755.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\modele-flyers-etude-cas-degrade_52683-74755.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/multiprise-coupe-veille-en-3-longueurs-1.5m-3m-et-5m-1024x575.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\multiprise-coupe-veille-en-3-longueurs-1.5m-3m-et-5m-1024x575.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/multiprise-coupe-veille-en-3-longueurs-1.5m-3m-et-5m.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\multiprise-coupe-veille-en-3-longueurs-1.5m-3m-et-5m.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/New-LoGo-Raafet-250px.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\New-LoGo-Raafet-250px.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/New-LoGo-Raafet-Digital-Marketing-1.png
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\New-LoGo-Raafet-Digital-Marketing-1.png
+Content Type: image/png
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/Offre-creation-de-site-wordpress-ecommerce-632.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\Offre-creation-de-site-wordpress-ecommerce-632.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/Offre-creation-de-video-aftereffect-632.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\Offre-creation-de-video-aftereffect-632.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/POST-E27-25W-1024x576.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\POST-E27-25W-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/POST-E27-25W.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\POST-E27-25W.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/poste-instagram-1.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\poste-instagram-1.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/project-Tupperware-Nadia-big-01-632-701x1024.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\project-Tupperware-Nadia-big-01-632-701x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/project-Tupperware-Nadia-big-01-632.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\project-Tupperware-Nadia-big-01-632.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/Projecteurs-LED-05-2023-1024x575.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\Projecteurs-LED-05-2023-1024x575.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/Projecteurs-LED-05-2023.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\Projecteurs-LED-05-2023.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/promo-4-1024x576.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\promo-4-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/promo-4.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\promo-4.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/promo-5-1024x576.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\promo-5-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/promo-5.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\promo-5.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/promo-lampes-LED-1024x576.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\promo-lampes-LED-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/promo-lampes-LED.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\promo-lampes-LED.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/promo-PROJECTEURS-LED-1024x576.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\promo-PROJECTEURS-LED-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/promo-PROJECTEURS-LED.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\promo-PROJECTEURS-LED.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/Promotion-Speciale-Ampoule-LED-E27-25W-1024x576.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\Promotion-Speciale-Ampoule-LED-E27-25W-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/Promotion-Speciale-Ampoule-LED-E27-25W.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\Promotion-Speciale-Ampoule-LED-E27-25W.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/qatar-logo-V-04-100.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\qatar-logo-V-04-100.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/Raafet-SEO-Web-Banner-2-1024x576.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\Raafet-SEO-Web-Banner-2-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/Raafet-SEO-Web-Banner-2.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\Raafet-SEO-Web-Banner-2.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/raiedet-tunisie-2023-185x1024.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\raiedet-tunisie-2023-185x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/raiedet-tunisie-2023-scaled.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\raiedet-tunisie-2023-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/Ricos-Tacos-Pizza-Logo.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\Ricos-Tacos-Pizza-Logo.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/screencapture-gape-led-tn-2023-02-05-02_38_56-293x1024.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\screencapture-gape-led-tn-2023-02-05-02_38_56-293x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/screencapture-gape-led-tn-2023-02-05-02_38_56-scaled.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\screencapture-gape-led-tn-2023-02-05-02_38_56-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/screencapture-maitrehabibsassi-tn-2022-07-22-21_04_24-2-1022x1024.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\screencapture-maitrehabibsassi-tn-2022-07-22-21_04_24-2-1022x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/screencapture-maitrehabibsassi-tn-2022-07-22-21_04_24-2.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\screencapture-maitrehabibsassi-tn-2022-07-22-21_04_24-2.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/screencapture-raafet-2022-07-22-21_01_50-2-1024x847.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\screencapture-raafet-2022-07-22-21_01_50-2-1024x847.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/screencapture-raafet-2022-07-22-21_01_50-2.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\screencapture-raafet-2022-07-22-21_01_50-2.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/social-media.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\social-media.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/SotuLED-Logo-1.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\SotuLED-Logo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/SotuLed-LOGO-variations.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\SotuLed-LOGO-variations.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/Steryl_Brush_Flyer_English__Page_1-749x1024.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\Steryl_Brush_Flyer_English__Page_1-749x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/Steryl_Brush_Flyer_English__Page_1.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\Steryl_Brush_Flyer_English__Page_1.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/texabrod-fr-632-701x1024.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\texabrod-fr-632-701x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/texabrod-fr-632.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\texabrod-fr-632.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/w3sTN-X-Brochure-1-1024x725.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\w3sTN-X-Brochure-1-1024x725.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/w3sTN-X-Brochure-1.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\w3sTN-X-Brochure-1.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/w3sTN-X-Brochure-2-1024x724.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\w3sTN-X-Brochure-2-1024x724.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/09/w3sTN-X-Brochure-2.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\09\w3sTN-X-Brochure-2.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/10/raafet-design-EN-2-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\10\raafet-design-EN-2-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/10/raafet-design-EN-2-150x150.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\10\raafet-design-EN-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/10/raafet-design-EN-2-300x300.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\10\raafet-design-EN-2-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/10/raafet-design-EN-2-350x350.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\10\raafet-design-EN-2-350x350.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/10/raafet-design-EN-2-420x420.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\10\raafet-design-EN-2-420x420.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/10/raafet-design-EN-2-480x480.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\10\raafet-design-EN-2-480x480.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/10/raafet-design-EN-2-530x530.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\10\raafet-design-EN-2-530x530.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/10/raafet-design-EN-2-540x654.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\10\raafet-design-EN-2-540x654.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/10/raafet-design-EN-2-600x600.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\10\raafet-design-EN-2-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/10/raafet-design-EN-2-768x768.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\10\raafet-design-EN-2-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/10/raafet-design-EN-2.jpg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\10\raafet-design-EN-2.jpg
+Content Type: image/jpeg
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/12/Boostez-votre-visibilitE-en-ligne-avec-nos-services-de-developpement-web-et-optimisation-SEO.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\12\Boostez-votre-visibilitE-en-ligne-avec-nos-services-de-developpement-web-et-optimisation-SEO.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/12/Creation-de-sites-WordPress-sur-mesure-design-professionnel-SEO-optimise.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\12\Creation-de-sites-WordPress-sur-mesure-design-professionnel-SEO-optimise.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/12/Experience-en-developpement-web-et-expertise-SEO-pour-une-strategie-digitale-gagnante-300x264.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\12\Experience-en-developpement-web-et-expertise-SEO-pour-une-strategie-digitale-gagnante-300x264.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/12/Experience-en-developpement-web-et-expertise-SEO-pour-une-strategie-digitale-gagnante-480x422.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\12\Experience-en-developpement-web-et-expertise-SEO-pour-une-strategie-digitale-gagnante-480x422.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/12/Experience-en-developpement-web-et-expertise-SEO-pour-une-strategie-digitale-gagnante.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\12\Experience-en-developpement-web-et-expertise-SEO-pour-une-strategie-digitale-gagnante.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/12/Gagnez-en-visibilite-avec-nos-campagnes-Google-AdWords-ciblees-181x300.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\12\Gagnez-en-visibilite-avec-nos-campagnes-Google-AdWords-ciblees-181x300.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/12/Gagnez-en-visibilite-avec-nos-campagnes-Google-AdWords-ciblees.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\12\Gagnez-en-visibilite-avec-nos-campagnes-Google-AdWords-ciblees.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/12/Google-adwords-ad-logo-2-copie.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\12\Google-adwords-ad-logo-2-copie.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/12/MaItrisez-vos-KPI-SEO-pour-un-positionnement-optimal-sur-les-moteurs-de-recherche.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\12\MaItrisez-vos-KPI-SEO-pour-un-positionnement-optimal-sur-les-moteurs-de-recherche.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/12/Optimisation-de-votre-presence-en-ligne-grace-a-notre-expertise-en-creation-de-sites-WordPress-sur-mesure-300x267.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\12\Optimisation-de-votre-presence-en-ligne-grace-a-notre-expertise-en-creation-de-sites-WordPress-sur-mesure-300x267.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/12/Optimisation-de-votre-presence-en-ligne-grace-a-notre-expertise-en-creation-de-sites-WordPress-sur-mesure-480x426.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\12\Optimisation-de-votre-presence-en-ligne-grace-a-notre-expertise-en-creation-de-sites-WordPress-sur-mesure-480x426.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/12/Optimisation-de-votre-presence-en-ligne-grace-a-notre-expertise-en-creation-de-sites-WordPress-sur-mesure.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\12\Optimisation-de-votre-presence-en-ligne-grace-a-notre-expertise-en-creation-de-sites-WordPress-sur-mesure.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/12/optimisation-SEO-pour-des-sites-WordPress-performants-et-uniques-Faites-confiance-a-nos-specialistes-WordPress.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\12\optimisation-SEO-pour-des-sites-WordPress-performants-et-uniques-Faites-confiance-a-nos-specialistes-WordPress.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/12/raafet-costume-2023-400-png-8.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\12\raafet-costume-2023-400-png-8.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/12/raafet-digital-marketing-webdesign-On-Page-Off-Page-SEO-Front-end-Developer-294x300.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\12\raafet-digital-marketing-webdesign-On-Page-Off-Page-SEO-Front-end-Developer-294x300.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/12/raafet-digital-marketing-webdesign-On-Page-Off-Page-SEO-Front-end-Developer-480x490.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\12\raafet-digital-marketing-webdesign-On-Page-Off-Page-SEO-Front-end-Developer-480x490.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/12/raafet-digital-marketing-webdesign-On-Page-Off-Page-SEO-Front-end-Developer.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\12\raafet-digital-marketing-webdesign-On-Page-Off-Page-SEO-Front-end-Developer.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/12/Strategie-SEO-axee-sur-les-KPI-boostez-votre-classement-dans-les-recherches-181x300.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\12\Strategie-SEO-axee-sur-les-KPI-boostez-votre-classement-dans-les-recherches-181x300.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/2023/12/Strategie-SEO-axee-sur-les-KPI-boostez-votre-classement-dans-les-recherches.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2023\12\Strategie-SEO-axee-sur-les-KPI-boostez-votre-classement-dans-les-recherches.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/2024/06/iphone-3--185x300.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2024\06\iphone-3--185x300.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/2024/06/iphone-3-.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\2024\06\iphone-3-.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/elementor/css/post-10597.css?ver=1702755031
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\elementor\css\post-10597.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/uploads/elementor/css/post-1388.css?ver=1698163165
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\elementor\css\post-1388.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/uploads/elementor/css/post-382.css?ver=1701631859
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\elementor\css\post-382.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/uploads/elementor/css/post-4031.css?ver=1701604104
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\elementor\css\post-4031.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/uploads/elementor/css/post-4110.css?ver=1719878032
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\elementor\css\post-4110.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/uploads/elementor/css/post-4283.css?ver=1697567847
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\elementor\css\post-4283.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/uploads/elementor/css/post-4286.css?ver=1697567847
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\elementor\css\post-4286.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/uploads/elementor/css/post-6782.css?ver=1703023482
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\elementor\css\post-6782.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/uploads/elementor/css/post-7.css?ver=1697558450
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\elementor\css\post-7.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/uploads/elementor/css/post-7803.css?ver=1719879090
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\elementor\css\post-7803.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/uploads/elementor/css/post-7813.css?ver=1701604671
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\elementor\css\post-7813.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/uploads/elementor/css/post-782.css?ver=1698305529
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\elementor\css\post-782.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/uploads/elementor/css/post-824.css?ver=1697645521
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\elementor\css\post-824.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/uploads/elementor/css/post-854.css?ver=1719876191
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\elementor\css\post-854.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/uploads/elementor/css/post-889.css?ver=1697567846
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\elementor\css\post-889.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-content/uploads/elementor/thumbs/Mesure-et-amelioration-des-KPI-SEO-pour-une-presence-digitale-efficace-qgyim1s9ddqfpp53k6fw5lcohdskekbgwb4uo5wd7e.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\elementor\thumbs\Mesure-et-amelioration-des-KPI-SEO-pour-une-presence-digitale-efficace-qgyim1s9ddqfpp53k6fw5lcohdskekbgwb4uo5wd7e.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-content/uploads/elementor/thumbs/SEO-Optimisation-raafet-Design-qgybi3ce4l63tndvybusfv8q84c191kd1qunl4p3sy.webp
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-content\uploads\elementor\thumbs\SEO-Optimisation-raafet-Design-qgybi3ce4l63tndvybusfv8q84c191kd1qunl4p3sy.webp
+Content Type: image/webp
+
+Uri: https://raafet.ovh/wp-includes/css/dist/block-library/style.min.css?ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://raafet.ovh/wp-includes/images/media/default.svg
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-includes\images\media\default.svg
+Content Type: image/svg+xml
+
+Uri: https://raafet.ovh/wp-includes/js/comment-reply.min.js?ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-includes/js/imagesloaded.min.js?ver=5.0.0
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-includes\js\jquery\ui\accordion.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-includes\js\jquery\ui\datepicker.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-includes\js\jquery\ui\tabs.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-includes/js/wp-util.min.js?ver=38df5942a4200947e7da60f7c52da4bc
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://raafet.ovh/wp-json/
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://raafet.ovh/wp-json/oembed/1.0/embed?url=https:%2F%2Fraafet.ovh%2F
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://raafet.ovh/wp-json/oembed/1.0/embed?url=https:%2F%2Fraafet.ovh%2F&format=xml
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://raafet.ovh/wp-json/oembed/1.0/embed?url=https:%2F%2Fraafet.ovh%2Fa-propos%2F
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://raafet.ovh/wp-json/oembed/1.0/embed?url=https:%2F%2Fraafet.ovh%2Fa-propos%2F&format=xml
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://raafet.ovh/wp-json/oembed/1.0/embed?url=https:%2F%2Fraafet.ovh%2Fcomment-augmenter-votre-roi-grace-au-sem-scientifique%2F
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://raafet.ovh/wp-json/oembed/1.0/embed?url=https:%2F%2Fraafet.ovh%2Fcomment-augmenter-votre-roi-grace-au-sem-scientifique%2F&format=xml
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://raafet.ovh/wp-json/oembed/1.0/embed?url=https:%2F%2Fraafet.ovh%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://raafet.ovh/wp-json/oembed/1.0/embed?url=https:%2F%2Fraafet.ovh%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://raafet.ovh/wp-json/oembed/1.0/embed?url=https:%2F%2Fraafet.ovh%2Fdevis-conception-web%2F
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://raafet.ovh/wp-json/oembed/1.0/embed?url=https:%2F%2Fraafet.ovh%2Fdevis-conception-web%2F&format=xml
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://raafet.ovh/wp-json/oembed/1.0/embed?url=https:%2F%2Fraafet.ovh%2Fnotre-equipe%2F
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://raafet.ovh/wp-json/oembed/1.0/embed?url=https:%2F%2Fraafet.ovh%2Fnotre-equipe%2F&format=xml
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://raafet.ovh/wp-json/oembed/1.0/embed?url=https:%2F%2Fraafet.ovh%2Fportfolio-raafet%2F
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://raafet.ovh/wp-json/oembed/1.0/embed?url=https:%2F%2Fraafet.ovh%2Fportfolio-raafet%2F&format=xml
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://raafet.ovh/wp-json/oembed/1.0/embed?url=https:%2F%2Fraafet.ovh%2Fseo-services%2F
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://raafet.ovh/wp-json/oembed/1.0/embed?url=https:%2F%2Fraafet.ovh%2Fseo-services%2F&format=xml
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://raafet.ovh/wp-json/oembed/1.0/embed?url=https:%2F%2Fraafet.ovh%2Fsmm-services%2F
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://raafet.ovh/wp-json/oembed/1.0/embed?url=https:%2F%2Fraafet.ovh%2Fsmm-services%2F&format=xml
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://raafet.ovh/wp-json/oembed/1.0/embed?url=https:%2F%2Fraafet.ovh%2Fteam%2Fraafet-radhouane%2F
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://raafet.ovh/wp-json/oembed/1.0/embed?url=https:%2F%2Fraafet.ovh%2Fteam%2Fraafet-radhouane%2F&format=xml
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://raafet.ovh/wp-json/wp/v2/categories/5
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\wp\v2\categories\5
+Content Type: application/json
+
+Uri: https://raafet.ovh/wp-json/wp/v2/pages/10170
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\wp\v2\pages\10170
+Content Type: application/json
+
+Uri: https://raafet.ovh/wp-json/wp/v2/pages/10597
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\wp\v2\pages\10597
+Content Type: application/json
+
+Uri: https://raafet.ovh/wp-json/wp/v2/pages/382
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\wp\v2\pages\382
+Content Type: application/json
+
+Uri: https://raafet.ovh/wp-json/wp/v2/pages/6782
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\wp\v2\pages\6782
+Content Type: application/json
+
+Uri: https://raafet.ovh/wp-json/wp/v2/pages/782
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\wp\v2\pages\782
+Content Type: application/json
+
+Uri: https://raafet.ovh/wp-json/wp/v2/pages/854
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\wp\v2\pages\854
+Content Type: application/json
+
+Uri: https://raafet.ovh/wp-json/wp/v2/pages/889
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\wp\v2\pages\889
+Content Type: application/json
+
+Uri: https://raafet.ovh/wp-json/wp/v2/pages/9684
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\wp\v2\pages\9684
+Content Type: application/json
+
+Uri: https://raafet.ovh/wp-json/wp/v2/posts/824
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\wp\v2\posts\824
+Content Type: application/json
+
+Uri: https://raafet.ovh/wp-json/wp/v2/tags/11
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\wp\v2\tags\11
+Content Type: application/json
+
+Uri: https://raafet.ovh/wp-json/wp/v2/tags/16
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\wp\v2\tags\16
+Content Type: application/json
+
+Uri: https://raafet.ovh/wp-json/wp/v2/tags/17
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\wp\v2\tags\17
+Content Type: application/json
+
+Uri: https://raafet.ovh/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\raafet.ovh\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://raafet.ovh/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\raafet.ovh\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-EXFEX686SE
+File Name: C:\Downloaded Web Sites\raafet.ovh\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=GT-P8QTT6N
+File Name: C:\Downloaded Web Sites\raafet.ovh\gtag\js-1
+Content Type: application/javascript
+
